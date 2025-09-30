@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # Currently available options are "default", "air"
-title                    : "Cassandra TAN Hui Ming"
+title                    : "Cassandra TAN Hui Ming's Home Page"
 title_separator          : "-"
 name                     : &name "Cassandra TAN Hui Ming"
 description              : &description "Ph.D. Candidate in Computer Science at SMU. Research on Memory-Augmented LLMs, Agentic AI, Multilingual Understanding."   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile.png"
+  avatar           : "my_profile.png"
   name             : "Cassandra TAN Hui Ming"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate in Computer Science at SMU. Research on Memory-Augmented LLMs, Agentic AI, Multilingual Understanding."
