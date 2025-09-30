@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Home Page"
 author_profile: true
 ---
 
@@ -25,7 +25,5 @@ My dissertation explores methods to integrate **persistent, structured memory** 
 I aim to build LLM-based systems that combine **scalability, adaptability, and reliability**—moving toward models that can support sustained, trustworthy collaboration with humans.
 
 ## Links
-- **CV**: [/files/CV.pdf](/files/CV.pdf)  
-- **Google Scholar**: <https://scholar.google.com/citations?user=YOURID>  
 - **GitHub**: <https://github.com/cassthm>  
 - **Email**: hm.tan.2023@phdcs.smu.edu.sg
