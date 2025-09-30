@@ -27,3 +27,4 @@ I aim to build LLM-based systems that combine **scalability, adaptability, and r
 ## Links
 - **GitHub**: <https://github.com/cassthm>  
 - **Email**: hm.tan.2023@phdcs.smu.edu.sg
+- **LinkedIn**: https:/www.linkedin.com/in/hui-ming-cassandra-tan/
